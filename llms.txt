@@ -1,2 +1,27 @@
 # Keswick Duct Cleaning
-HVAC services in Ontario.
+
+> Keswick Duct Cleaning is a local HVAC company serving Keswick, York, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 476-8231  |  Email: contact@keswickductcleaning.ca  |  Website: https://keswickductcleaning.ca
+
+Service areas: Jackson's Point
+
+## Key pages
+
+- [Home](https://keswickductcleaning.ca/): Keswick Duct Cleaning homepage with service overview and FAQ
+- [About](https://keswickductcleaning.ca/about/): About the company and service area
+- [Contact](https://keswickductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://keswickductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Keswick, Ontario
+- [Dryer Vent Cleaning](https://keswickductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Keswick, Ontario
+- [Furnace & AC Cleaning](https://keswickductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Keswick, Ontario
+- [HRV & Ventilation Cleaning](https://keswickductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Keswick, Ontario
+- [Duct Sanitizing & Deodorizing](https://keswickductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Keswick, Ontario
+- [Duct Sealing & Repair](https://keswickductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Keswick, Ontario
+- [Commercial Duct Cleaning](https://keswickductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Keswick, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Keswick are answered on the homepage.
